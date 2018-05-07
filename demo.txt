@@ -21,3 +21,13 @@ After doing this git warns that there is a conflict in the master branch
 This file contains the zickjack explanation
 
 Detaching head experiment is going on
+
+It has two parents that what makes the merge 
+
+The deatched head is a cool concept for checking the object in the database 
+
+The deatched head is experimental 
+if you wish to keep your data then you can use detached head to do so 
+if you don't wish to keep your data then detached head will be only experimental 
+isn't it a good stuff
+
