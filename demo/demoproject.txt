@@ -1,0 +1,7 @@
+GIt stores the new blob every time when you changed the file 
+
+===>> GIt also does layer of optimization to save the space 
+
+====>>> GIt tries to store all the difference of two objects in the file that is inserted or deleted.
+
+==> A tag is the label for the current state of the project 
