@@ -1,3 +1,23 @@
 Blob ===> blob is the binary large object for storing files
 
-git cat-file -p <SHA1> This commit has parent something that move than previous one 
+git cat-file -p <SHA1> This commit has parent something that move than previous one
+
+To merge branches changes into master branch 
+
+#git-merge <branch name>
+
+After doing this git warns that these is a conflict so we need to solve it manually  
+
+
+This is the way to tell to the git the merge is fixed 
+
+
+After fixing the conflicts we just need to commit 
+
+passsing message git will automatically add message
+
+After doing this git warns that there is a conflict in the master branch 
+
+This file contains the zickjack explanation
+
+Detaching head experiment is going on
