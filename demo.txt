@@ -1,0 +1,3 @@
+Blob ===> blob is the binary large object for storing files
+
+git cat-file -p <SHA1> This commit has parent something that move than previous one 
