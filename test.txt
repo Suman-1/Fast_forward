@@ -11,4 +11,5 @@ In this conditon what you can do is
 		Hard reset 
 
 
-This line is the first line that is added for the purpose that how checkout perfoms
+
+Here the first line is deleted and we want to undo the changes that we made 
