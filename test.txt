@@ -6,7 +6,9 @@ In this conditon what you can do is
 
 		Merge
 		
-
 		Soft reset 
 
 		Hard reset 
+
+
+This line is the first line that is added for the purpose that how checkout perfoms
