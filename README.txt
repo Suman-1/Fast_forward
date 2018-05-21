@@ -31,4 +31,19 @@ You can do either checkout or hard reset
 ======>>>>> #git reset --hard 
 
 
-This is the magic that you can do with the git 
+This is the magic that you can do with the git but this only works before commit 
+
+
+
+
+
+	###### UNDOING AND REDOING CHANGES TO THE REPOSITORY #####
+
+When you do above commands only the working directory changes that the log remains the same 
+For that you have do to simply is 
+
+ 	#git reset --soft HEAD~1 (Move 1 step back)
+		It takes the last commit from the repository 
+
+	#git  reset --hard HEAD~1
+		it will delete the last commit and discard all the changes
