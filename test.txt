@@ -1,0 +1,12 @@
+This is the place where you don't want to add the text but you added text here 
+
+In this conditon what you can do is 
+
+		checkout 
+
+		Merge
+		
+
+		Soft reset 
+
+		Hard reset 
