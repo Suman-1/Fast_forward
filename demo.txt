@@ -31,3 +31,5 @@ if you wish to keep your data then you can use detached head to do so
 if you don't wish to keep your data then detached head will be only experimental 
 isn't it a good stuff
 
+
+git diff HEAD~1..HEAD  #Here 1 tells to move HEAD to one step back 
